@@ -1,1 +1,1 @@
-# sidebarpal
+# SidebarPal
